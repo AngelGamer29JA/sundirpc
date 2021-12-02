@@ -1,0 +1,7 @@
+/node_modules
+/src
+/data
+/yarn-error.log
+/yarn.lock
+/%USERPROFILE%
+/config.json

@@ -1,0 +1,19 @@
+{
+  "name": "sundirpc",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node .",
+    "build": "nexe src/main.js"
+  },
+  "bin": {
+    "sundirpc": "src/main.js"
+  },
+  "dependencies": {
+    "@types/discord-rpc": "^4.0.0",
+    "@types/node": "^16.11.11",
+    "discord-rpc": "^4.0.1",
+    "typescript": "^4.5.2"
+  }
+}
